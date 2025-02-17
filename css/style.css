@@ -1,0 +1,70 @@
+@font-face {
+  font-family: "Fira Mono";
+  src: url("../fonts/FiraMono-Regular.ttf") format("truetype");
+  font-weight: 400; /* Regular */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Fira Mono";
+  src: url("../fonts/FiraMono-Medium.ttf") format("truetype");
+  font-weight: 500; /* Medium */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Fira Mono";
+  src: url("../fonts/FiraMono-Bold.ttf") format("truetype");
+  font-weight: 700; /* Bold */
+  font-style: normal;
+}
+
+:root {
+  --nav-background-color: #252627;
+  --background-color: #292a2d;
+}
+
+body {
+  font-family: "Fira Mono", monospace;
+  font-weight: 400;
+  background-color: var(--background-color);
+  margin: 0;
+  padding: 0;
+
+  /* Flexbox for vertical centering */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow-y: auto;
+}
+
+.container {
+  max-width: 600px;
+  padding: 20px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: justify;
+
+  min-height: 100vh;
+}
+
+.container h1 {
+  font-size: 3em;
+  font-weight: 700;
+  /* margin-bottom: 20px; */
+  color: #ffffff;
+}
+
+.container p {
+  font-size: 1.2em;
+  color: #ffffff;
+  max-width: 500px;
+}
+
+h1,
+p {
+  margin: 0;
+}
