@@ -1,5 +1,3 @@
-import { Sun } from "lucide-react";
-
 const HeroSection = () => {
   return (
     <section className="bg-base text-white font-mono flex flex-col min-h-screen">
