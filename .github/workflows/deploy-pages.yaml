@@ -25,6 +25,15 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          cache: 'npm'
+      - name: Install dependencies
+        run: npm ci --prefix website
+      - name: Build
+        run: npm run build --prefix website
 
       - name: Setup Pages
         id: pages
@@ -33,7 +42,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./
+          path: ./website/dist
 
   deploy:
     environment:
