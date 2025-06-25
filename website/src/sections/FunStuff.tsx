@@ -26,9 +26,9 @@ const FunStuff = () => {
         {
             text: (
              <>
-                <h3 className="text-2xl font-semibold mb-2">CDTM Hack 2025</h3>
+                <h3 className="text-2xl font-semibold mb-2">CDTM Hacks 2025</h3>
                 <p className="text-white leading-relaxed text-justify">
-                    At CDTM HACKS 2025, my team and I built N/avi—an AI-powered platform that turns messy medical paperwork into clean, structured data. We took first place for our solution, combining GenAI and OCR to streamline patient onboarding. 
+                    At <a href="https://hacks.cdtm.com/" className="text-blue-400 hover:underline">CDTM HACKS 2025</a>, my team and I built <a href="https://github.com/pvlov/avi-case" className="text-blue-400 hover:underline">N/avi</a>—an AI-powered platform that turns messy medical paperwork into clean, structured data. We took first place for our solution, combining GenAI and OCR to streamline patient onboarding. 
                     Following this achievement, we were invited to demo N/avi at the opening of OpenAI’s new Munich office, presenting our work to some of the leading minds in AI. 
                     We are now continuing to develop the project, pushing forward on our mission to simplify healthcare through smart, user-friendly tech.
                 </p>
