@@ -37,7 +37,6 @@ const FunStuff = () => {
                 <p className="text-white leading-relaxed text-justify">
                     At <Link href="https://hacks.cdtm.com/">CDTM HACKS 2025</Link>, my team and I built <Link href="https://github.com/pvlov/avi-case">N/avi</Link>—an AI-powered platform that turns messy medical paperwork into clean, structured data. We took the overall first place for our solution, combining GenAI and OCR to streamline patient onboarding. 
                     Following this achievement, we were invited to demo N/avi at the celebration of the opening of OpenAI’s new Munich office, presenting our work to some of the leading minds in AI. 
-                    We are now continuing to develop the project, pushing forward on our mission to simplify healthcare through smart, user-friendly tech.
                 </p>
             </> 
             ),

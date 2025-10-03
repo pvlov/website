@@ -6,6 +6,10 @@
   --color-dark-text: #b3b3b3;
 }
 
+html {
+  background-color: var(--color-base);
+}
+
 @font-face {
   font-family: 'Fira Mono';
   font-style: normal;
