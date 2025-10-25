@@ -779,7 +779,7 @@ const Collection: React.FC = () => {
                         href={link.href}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="text-indigo-600 transition-colors duration-200"
+                        className="text-rose-400 transition-colors duration-200"
                       >
                         {link.isItalic ? <i>{link.text}</i> : link.text}
                       </a>
@@ -813,7 +813,7 @@ const Collection: React.FC = () => {
                             href={link.href}
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="text-indigo-600 transition-colors duration-200"
+                            className="text-rose-400 transition-colors duration-200"
                           >
                             {link.text}
                           </a>
