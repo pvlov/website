@@ -1,6 +1,6 @@
 import Navbar from "@/components/Navbar";
 
-const BlogPage = () => {
+const Blog = () => {
   return (
     <>
       <Navbar />
@@ -11,4 +11,4 @@ const BlogPage = () => {
   );
 };
 
-export default BlogPage;
+export default Blog;
