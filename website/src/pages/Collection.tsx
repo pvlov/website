@@ -728,7 +728,7 @@ const categories: Category[] = [
   },
 ];
 
-const Collection: React.FC = () => {
+const CollectionPage: React.FC = () => {
   return (
     <section className="bg-base text-zinc-300 font-mono flex flex-col min-h-screen p-4 sm:p-8">
       <Navbar />
@@ -830,4 +830,4 @@ const Collection: React.FC = () => {
   );
 };
 
-export default Collection;
+export default CollectionPage;

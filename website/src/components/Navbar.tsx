@@ -26,8 +26,8 @@ const Navbar: React.FC = () => {
       </Link>
       <nav className="flex items-center gap-4 sm:gap-10">
         <a
+          href="/#about"
           className="text-white hover:text-white transition-colors cursor-pointer"
-          onClick={() => document.getElementById('about')?.scrollIntoView()}
         >
           about
         </a>

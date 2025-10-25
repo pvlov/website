@@ -3,7 +3,7 @@ import FunStuff from "@/sections/FunStuff";
 import HeroSection from "@/sections/Hero";
 import Navbar from "@/components/Navbar";
 
-function App() {
+function HomePage() {
   return (
     <>
       <Navbar />
@@ -14,4 +14,4 @@ function App() {
   );
 }
 
-export default App;
+export default HomePage;
