@@ -5,7 +5,12 @@ interface LinkProps extends AnchorHTMLAttributes<HTMLAnchorElement> {
   children: ReactNode;
 }
 
-const Link: React.FC<LinkProps> = ({ href, children, className = "", ...props }) => (
+const Link: React.FC<LinkProps> = ({
+  href,
+  children,
+  className = "",
+  ...props
+}) => (
   <a
     href={href}
     className={`text-blue-400 hover:underline ${className}`}

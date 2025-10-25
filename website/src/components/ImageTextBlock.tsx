@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 interface ImageTextBlockProps {
   /** Content text to display */
@@ -6,7 +6,7 @@ interface ImageTextBlockProps {
   /** Array of image URLs */
   images: string[];
   /** Position of text: 'left' or 'right' */
-  textPosition?: 'left' | 'right';
+  textPosition?: "left" | "right";
   /** Optional alt texts for images */
   alts?: string[];
 }
@@ -14,15 +14,15 @@ interface ImageTextBlockProps {
 const ImageTextBlock: React.FC<ImageTextBlockProps> = ({
   text,
   images,
-  textPosition = 'left',
-  alts = []
+  textPosition = "left",
+  alts = [],
 }) => {
-  const isTextLeft = textPosition === 'left';
+  const isTextLeft = textPosition === "left";
   return (
     <section className="py-8">
       <div
         className={`flex flex-col md:flex-row items-center max-w-4xl mx-auto gap-y-6 md:gap-4 ${
-          isTextLeft ? 'md:flex-row' : 'md:flex-row-reverse'
+          isTextLeft ? "md:flex-row" : "md:flex-row-reverse"
         }`}
       >
         {/* Text Container */}
@@ -36,7 +36,10 @@ const ImageTextBlock: React.FC<ImageTextBlockProps> = ({
         {/* Images Grid */}
         <div className="w-full md:w-1/2 grid grid-cols-1 sm:grid-cols-2 gap-4">
           {images.slice(0, 4).map((src, idx) => (
-            <div key={idx} className="relative w-full aspect-square rounded overflow-hidden">
+            <div
+              key={idx}
+              className="relative w-full aspect-square rounded overflow-hidden"
+            >
               <img
                 src={src}
                 alt={alts[idx] || `image-${idx}`}

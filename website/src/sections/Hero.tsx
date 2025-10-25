@@ -7,20 +7,36 @@ const HeroSection = () => {
             Hi, I'm Daniel 🐧
           </h1>
           <p className="text-bone text-lg leading-relaxed mb-6">
-            I'm a computer science student at the Technical University of Munich.
+            I'm a computer science student at the Technical University of
+            Munich.
           </p>
           <div className="grid grid-cols-3 place-items-center gap-2">
-            <a href="https://linkedin.com/in/pvlov" target="_blank" rel="noopener noreferrer" className="text-white transition-colors">
+            <a
+              href="https://linkedin.com/in/pvlov"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-white transition-colors"
+            >
               linkedin
             </a>
-            <a href="https://github.com/pvlov" target="_blank" rel="noopener noreferrer" className="text-white transition-colors">
+            <a
+              href="https://github.com/pvlov"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-white transition-colors"
+            >
               github
             </a>
-            <a href="mailto:daniel.pavlov@gmx.de" className="text-white transition-colors">
+            <a
+              href="mailto:daniel.pavlov@gmx.de"
+              className="text-white transition-colors"
+            >
               email
             </a>
           </div>
-          <p className="mt-8 text-sm text-bone opacity-75">Scroll down for more fun stuff ↓</p>
+          <p className="mt-8 text-sm text-bone opacity-75">
+            Scroll down for more fun stuff ↓
+          </p>
         </div>
       </main>
     </section>

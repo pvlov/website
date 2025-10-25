@@ -11,25 +11,25 @@ html {
 }
 
 @font-face {
-  font-family: 'Fira Mono';
+  font-family: "Fira Mono";
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url('../public/fonts/FiraMono/FiraMono-Regular.ttf') format('truetype');
+  src: url("../public/fonts/FiraMono/FiraMono-Regular.ttf") format("truetype");
 }
 
 @font-face {
-  font-family: 'Fira Mono';
+  font-family: "Fira Mono";
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url('../public/FiraMono/FiraMono-Medium.ttf') format('truetype');
+  src: url("../public/FiraMono/FiraMono-Medium.ttf") format("truetype");
 }
 
 @font-face {
-  font-family: 'Fira Mono';
+  font-family: "Fira Mono";
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url('../public/fonts/FiraMono/FiraMono-Bold.ttf') format('truetype');
+  src: url("../public/fonts/FiraMono/FiraMono-Bold.ttf") format("truetype");
 }

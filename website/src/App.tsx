@@ -1,7 +1,7 @@
-import AboutMe from '@/sections/AboutMe';
-import FunStuff from '@/sections/FunStuff';
-import HeroSection from '@/sections/Hero';
-import Navbar from '@/components/Navbar';
+import AboutMe from "@/sections/AboutMe";
+import FunStuff from "@/sections/FunStuff";
+import HeroSection from "@/sections/Hero";
+import Navbar from "@/components/Navbar";
 
 function App() {
   return (
@@ -14,4 +14,4 @@ function App() {
   );
 }
 
-export default App
+export default App;
