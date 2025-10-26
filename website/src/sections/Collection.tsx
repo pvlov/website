@@ -625,6 +625,10 @@ const categories: Category[] = [
         text: "Strings Just Got Faster",
         href: "https://inside.java/2025/05/01/strings-just-got-faster/",
       },
+      {
+        text: "Java Memory Model Pragmatics (transcript) [Thanks to Christian for this suggestion!]",
+        href: "https://shipilev.net/blog/2014/jmm-pragmatics/",
+      }
     ],
   },
   {
