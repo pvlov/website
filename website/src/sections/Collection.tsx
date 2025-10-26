@@ -86,6 +86,10 @@ const categories: Category[] = [
         text: "Java, SQL and jOOQ",
         href: "https://blog.jooq.org/",
       },
+      {
+        text: "sean goedecke's Blog",
+        href: "https://www.seangoedecke.com/"
+      }
     ],
   },
   {
@@ -193,6 +197,14 @@ const categories: Category[] = [
         text: "Good engineers are right, a lot",
         href: "https://www.seangoedecke.com/being-right-a-lot/",
       },
+      {
+        text: "Measuring Engineering Productivity",
+        href: "https://justoffbyone.com/posts/measuring-engineering-productivity/"
+      },
+      {
+        text: "Mistakes I see engineers making in their code reviews",
+        href: "https://www.seangoedecke.com/good-code-reviews/"
+      }
     ],
   },
   {
