@@ -628,6 +628,14 @@ const categories: Category[] = [
       {
         text: "Java Memory Model Pragmatics (transcript) [Thanks to Christian for this suggestion!]",
         href: "https://shipilev.net/blog/2014/jmm-pragmatics/",
+      },
+      {
+        text: "JVM Anatomy Quirks [Thanks to Christian for this suggestion!]",
+        href: "https://shipilev.net/jvm/anatomy-quarks/"
+      },
+      {
+        text: "Close Encounters of The Java Memory Model Kind [Thanks to Christian for this suggestion!]",
+        href: "https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/"
       }
     ],
   },
@@ -684,7 +692,7 @@ const categories: Category[] = [
         href: "https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/",
       },
       {
-        text: "Everyne's got one",
+        text: "Everyone's got one",
         href: "https://www.scattered-thoughts.net/writing/everyones-got-one/",
       },
     ],
