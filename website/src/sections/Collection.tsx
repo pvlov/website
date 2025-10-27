@@ -51,7 +51,7 @@ const categories: Category[] = [
         href: "https://smallcultfollowing.com/babysteps/",
       },
       {
-        text: "Mara's Blog (also a big-time rust contributer iirc)",
+        text: "Mara's Blog (also a big-time rust contributor iirc)",
         href: "https://blog.m-ou.se/",
       },
       {
@@ -318,6 +318,10 @@ const categories: Category[] = [
         text: "MySQL at Uber",
         href: "https://www.uber.com/en-DE/blog/mysql-at-uber/?uclick_id=8d2a6f71-8db1-4c60-b724-fc9bd70cd9fd",
       },
+      {
+        text: "Optimistic Lock Coupling: A Scalable and Efficient General-Purpose Synchronization Method",
+        href: "http://sites.computer.org/debull/A19mar/p73.pdf"
+      }
     ],
   },
   {
@@ -408,6 +412,10 @@ const categories: Category[] = [
         text: "How To Scale Your Model",
         href: "https://jax-ml.github.io/scaling-book/",
       },
+      {
+        text: "the bug that taught me more about PyTorch than years of using it",
+        href: "https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/",
+      }
     ],
   },
   {
@@ -470,6 +478,18 @@ const categories: Category[] = [
         text: "Regex engine internals as a library",
         href: "https://burntsushi.net/regex-internals/",
       },
+      {
+        text: "Geometric Search Trees [Thanks to Enrico for this suggestion!]",
+        href: "https://g-trees.github.io/g_trees/"
+      },
+      {
+        text: "Optimistic Lock Coupling: A Scalable and Efficient General-Purpose Synchronization Method",
+        href: "http://sites.computer.org/debull/A19mar/p73.pdf"
+      },
+      {
+        text: "CPU Cache-Friendly Data Structures in Go: 10x Speed with Same Algorithm",
+        href: "https://skoredin.pro/blog/golang/cpu-cache-friendly-go"
+      }
     ],
   },
   {
@@ -666,6 +686,10 @@ const categories: Category[] = [
         text: "You don't need animations",
         href: "https://emilkowal.ski/ui/you-dont-need-animations",
       },
+      {
+        text: "Directives and the Platform Boundary",
+        href: "https://tanstack.com/blog/directives-and-the-platform-boundary"
+      }
     ],
   },
   {
@@ -853,5 +877,5 @@ const Collection: React.FC = () => {
     </section>
   );
 };
-
+// http://sites.computer.org/debull/A19mar/p73.pdf
 export default Collection;
