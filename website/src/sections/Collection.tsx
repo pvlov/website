@@ -321,6 +321,18 @@ const categories: Category[] = [
       {
         text: "Optimistic Lock Coupling: A Scalable and Efficient General-Purpose Synchronization Method",
         href: "http://sites.computer.org/debull/A19mar/p73.pdf"
+      },
+      {
+        text: "Stackful Coroutine Made Fast",
+        href: "https://photonlibos.github.io/blog/stackful-coroutine-made-fast"
+      },
+      {
+        text: "Quantifying pass-by-value overhead",
+        href: "https://owen.cafe/posts/struct-sizes/"
+      },
+      {
+        text: "Kafka is fast -- I'll use Postgres",
+        href: "https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks"
       }
     ],
   },
@@ -453,6 +465,10 @@ const categories: Category[] = [
         text: "Understanding Yoneda",
         href: "https://bartoszmilewski.com/2013/05/15/understanding-yoneda/",
       },
+      {
+        text: "Counterexamples in Type systems",
+        href: "https://counterexamples.org/title.html"
+      }
     ],
   },
   {
@@ -567,6 +583,10 @@ const categories: Category[] = [
         text: "Everybody's so Creative!",
         href: "https://daymare.net/blogs/everbody-so-creative/",
       },
+      {
+        text: "Disasters I've seen in a microservices world, part II",
+        href: "https://world.hey.com/joaoqalves/disasters-i-ve-seen-in-a-microservices-world-part-ii-9e6826bf"
+      }
     ],
   },
   {
@@ -646,6 +666,10 @@ const categories: Category[] = [
         text: "The Typestate Pattern in Rust",
         href: "https://cliffle.com/blog/rust-typestate/",
       },
+      {
+        text: "Futurelock",
+        href: "https://rfd.shared.oxide.computer/rfd/0609"
+      }
     ],
   },
   {
@@ -689,6 +713,10 @@ const categories: Category[] = [
       {
         text: "Directives and the Platform Boundary",
         href: "https://tanstack.com/blog/directives-and-the-platform-boundary"
+      },
+      {
+        text: "Springs and Bounces in native CSS",
+        href: "https://www.joshwcomeau.com/animation/linear-timing-function/"
       }
     ],
   },
@@ -772,6 +800,10 @@ const categories: Category[] = [
         text: "Over engineering my homelab so I don't pay cloud providers",
         href: "https://ergaster.org/posts/2025/08/04-overegineering-homelab/",
       },
+      {
+        text: "How We Found 7 TiB of Memory Just Sitting Around",
+        href: "https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around"
+      }
     ],
   },
 ];
