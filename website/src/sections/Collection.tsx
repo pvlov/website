@@ -333,6 +333,18 @@ const categories: Category[] = [
       {
         text: "Kafka is fast -- I'll use Postgres",
         href: "https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks"
+      },
+      {
+        text: "'You Don't Need Kafka, Just Use Postgres' Considered Harmful",
+        href: "https://www.morling.dev/blog/you-dont-need-kafka-just-use-postgres-considered-harmful/"
+      },
+      {
+        text: "Async and Finaliser Deadlocks",
+        href: "https://tratt.net/laurie/blog/2025/async_and_finaliser_deadlocks.html"
+      },
+      {
+        text: "On Async Mutexes",
+        href: "https://matklad.github.io/2025/11/04/on-async-mutexes.html"
       }
     ],
   },
@@ -375,6 +387,10 @@ const categories: Category[] = [
         text: "The Part of PostgreSQL We Hate the Most",
         href: "https://www.cs.cmu.edu/~pavlo/blog/2023/04/the-part-of-postgresql-we-hate-the-most.html",
       },
+      {
+        text: "Iceberg, The Right Idea - The Wrong Spec",
+        href: "https://www.database-doctor.com/posts/iceberg-is-wrong-1.html"
+      }
     ],
   },
   {
@@ -427,6 +443,10 @@ const categories: Category[] = [
       {
         text: "the bug that taught me more about PyTorch than years of using it",
         href: "https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/",
+      },
+      {
+        text: "You Should Write An Agent",
+        href: "https://fly.io/blog/everyone-write-an-agent/"
       }
     ],
   },
@@ -669,6 +689,18 @@ const categories: Category[] = [
       {
         text: "Futurelock",
         href: "https://rfd.shared.oxide.computer/rfd/0609"
+      },
+      {
+        text: "The Inconceivable Types of Rust: How to Make Self-Borrows Safe",
+        href: "https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html"
+      },
+      {
+        text: "Cancelling async Rust",
+        href: "https://sunshowers.io/posts/cancelling-async-rust/"
+      },
+      {
+        text: "Linking and shrinking Rust static libraries: a tale of fire",
+        href: "https://centricular.com/devlog/2025-11/dragonfire/"
       }
     ],
   },
@@ -692,6 +724,10 @@ const categories: Category[] = [
       {
         text: "Close Encounters of The Java Memory Model Kind [Thanks to Christian for this suggestion!]",
         href: "https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/"
+      },
+      {
+        text: "JVM exceptions are weird: a decompiler perspective",
+        href: "https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/"
       }
     ],
   },
@@ -803,6 +839,14 @@ const categories: Category[] = [
       {
         text: "How We Found 7 TiB of Memory Just Sitting Around",
         href: "https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around"
+      },
+      {
+        text: "The Missing Semester of Your CS Education",
+        href: "https://missing.csail.mit.edu/"
+      },
+      {
+        text: "SRE Books (by Google)",
+        href: "https://sre.google/books/"
       }
     ],
   },
