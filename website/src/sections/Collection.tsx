@@ -345,6 +345,10 @@ const categories: Category[] = [
       {
         text: "On Async Mutexes",
         href: "https://matklad.github.io/2025/11/04/on-async-mutexes.html"
+      },
+      {
+        text: "Inside Rust's std and parking_lot mutexes - who wins?",
+        href: "https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win"
       }
     ],
   },
@@ -701,6 +705,10 @@ const categories: Category[] = [
       {
         text: "Linking and shrinking Rust static libraries: a tale of fire",
         href: "https://centricular.com/devlog/2025-11/dragonfire/"
+      },
+      {
+        text: "Inside Rust's std and parking_lot mutexes - who wins?",
+        href: "https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win"
       }
     ],
   },
