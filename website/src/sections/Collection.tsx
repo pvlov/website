@@ -349,6 +349,22 @@ const categories: Category[] = [
       {
         text: "Inside Rust's std and parking_lot mutexes - who wins?",
         href: "https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win"
+      },
+      {
+        text: " Ditch your (mut)ex, you deserve better",
+        href: "https://chrispenner.ca/posts/mutexes"
+      },
+      {
+        text: "Memory is slow, Disk is fast - Part 1.",
+        href: "https://www.bitflux.ai/blog/memory-is-slow-part1/"
+      },
+      {
+        text: "Data Replication Design Spectrum",
+        href: "https://transactional.blog/blog/2024-data-replication-design-spectrum"
+      },
+      {
+        text: "Enough With All The Raft",
+        href: "https://transactional.blog/talk/enough-with-all-the-raft"
       }
     ],
   },
@@ -610,6 +626,14 @@ const categories: Category[] = [
       {
         text: "Disasters I've seen in a microservices world, part II",
         href: "https://world.hey.com/joaoqalves/disasters-i-ve-seen-in-a-microservices-world-part-ii-9e6826bf"
+      },
+      {
+        text: "A more general blog about microservices and their patterns",
+        href: "https://microservices.io/index.html"
+      },
+      {
+        text: "Aggregator of different system designs",
+        href: "https://systemdesign.io/"
       }
     ],
   },
