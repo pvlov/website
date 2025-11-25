@@ -24,7 +24,7 @@ const categories: Category[] = [
   {
     title: "Awesome Blogs, Podcasts and Aggregators",
     description:
-      "These blogs contain some really cool and high quality content, I would recommend checking up on them regularly.",
+      "These websites contain some really cool content, I would recommend checking up on them regularly.",
     links: [
       {
         text: "Lobste.rs",
