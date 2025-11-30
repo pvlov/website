@@ -6,7 +6,6 @@ import Landing from "./pages/Landing.tsx";
 import Blog from "@/pages/Blog.tsx";
 import Collection from "@/pages/Collection.tsx";
 
-
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
     <HashRouter>

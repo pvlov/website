@@ -88,8 +88,8 @@ const categories: Category[] = [
       },
       {
         text: "sean goedecke's Blog",
-        href: "https://www.seangoedecke.com/"
-      }
+        href: "https://www.seangoedecke.com/",
+      },
     ],
   },
   {
@@ -199,12 +199,12 @@ const categories: Category[] = [
       },
       {
         text: "Measuring Engineering Productivity",
-        href: "https://justoffbyone.com/posts/measuring-engineering-productivity/"
+        href: "https://justoffbyone.com/posts/measuring-engineering-productivity/",
       },
       {
         text: "Mistakes I see engineers making in their code reviews",
-        href: "https://www.seangoedecke.com/good-code-reviews/"
-      }
+        href: "https://www.seangoedecke.com/good-code-reviews/",
+      },
     ],
   },
   {
@@ -320,52 +320,52 @@ const categories: Category[] = [
       },
       {
         text: "Optimistic Lock Coupling: A Scalable and Efficient General-Purpose Synchronization Method",
-        href: "http://sites.computer.org/debull/A19mar/p73.pdf"
+        href: "http://sites.computer.org/debull/A19mar/p73.pdf",
       },
       {
         text: "Stackful Coroutine Made Fast",
-        href: "https://photonlibos.github.io/blog/stackful-coroutine-made-fast"
+        href: "https://photonlibos.github.io/blog/stackful-coroutine-made-fast",
       },
       {
         text: "Quantifying pass-by-value overhead",
-        href: "https://owen.cafe/posts/struct-sizes/"
+        href: "https://owen.cafe/posts/struct-sizes/",
       },
       {
         text: "Kafka is fast -- I'll use Postgres",
-        href: "https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks"
+        href: "https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks",
       },
       {
         text: "'You Don't Need Kafka, Just Use Postgres' Considered Harmful",
-        href: "https://www.morling.dev/blog/you-dont-need-kafka-just-use-postgres-considered-harmful/"
+        href: "https://www.morling.dev/blog/you-dont-need-kafka-just-use-postgres-considered-harmful/",
       },
       {
         text: "Async and Finaliser Deadlocks",
-        href: "https://tratt.net/laurie/blog/2025/async_and_finaliser_deadlocks.html"
+        href: "https://tratt.net/laurie/blog/2025/async_and_finaliser_deadlocks.html",
       },
       {
         text: "On Async Mutexes",
-        href: "https://matklad.github.io/2025/11/04/on-async-mutexes.html"
+        href: "https://matklad.github.io/2025/11/04/on-async-mutexes.html",
       },
       {
         text: "Inside Rust's std and parking_lot mutexes - who wins?",
-        href: "https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win"
+        href: "https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win",
       },
       {
         text: " Ditch your (mut)ex, you deserve better",
-        href: "https://chrispenner.ca/posts/mutexes"
+        href: "https://chrispenner.ca/posts/mutexes",
       },
       {
         text: "Memory is slow, Disk is fast - Part 1.",
-        href: "https://www.bitflux.ai/blog/memory-is-slow-part1/"
+        href: "https://www.bitflux.ai/blog/memory-is-slow-part1/",
       },
       {
         text: "Data Replication Design Spectrum",
-        href: "https://transactional.blog/blog/2024-data-replication-design-spectrum"
+        href: "https://transactional.blog/blog/2024-data-replication-design-spectrum",
       },
       {
         text: "Enough With All The Raft",
-        href: "https://transactional.blog/talk/enough-with-all-the-raft"
-      }
+        href: "https://transactional.blog/talk/enough-with-all-the-raft",
+      },
     ],
   },
   {
@@ -409,8 +409,8 @@ const categories: Category[] = [
       },
       {
         text: "Iceberg, The Right Idea - The Wrong Spec",
-        href: "https://www.database-doctor.com/posts/iceberg-is-wrong-1.html"
-      }
+        href: "https://www.database-doctor.com/posts/iceberg-is-wrong-1.html",
+      },
     ],
   },
   {
@@ -466,8 +466,8 @@ const categories: Category[] = [
       },
       {
         text: "You Should Write An Agent",
-        href: "https://fly.io/blog/everyone-write-an-agent/"
-      }
+        href: "https://fly.io/blog/everyone-write-an-agent/",
+      },
     ],
   },
   {
@@ -507,8 +507,8 @@ const categories: Category[] = [
       },
       {
         text: "Counterexamples in Type systems",
-        href: "https://counterexamples.org/title.html"
-      }
+        href: "https://counterexamples.org/title.html",
+      },
     ],
   },
   {
@@ -536,16 +536,16 @@ const categories: Category[] = [
       },
       {
         text: "Geometric Search Trees [Thanks to Enrico for this suggestion!]",
-        href: "https://g-trees.github.io/g_trees/"
+        href: "https://g-trees.github.io/g_trees/",
       },
       {
         text: "Optimistic Lock Coupling: A Scalable and Efficient General-Purpose Synchronization Method",
-        href: "http://sites.computer.org/debull/A19mar/p73.pdf"
+        href: "http://sites.computer.org/debull/A19mar/p73.pdf",
       },
       {
         text: "CPU Cache-Friendly Data Structures in Go: 10x Speed with Same Algorithm",
-        href: "https://skoredin.pro/blog/golang/cpu-cache-friendly-go"
-      }
+        href: "https://skoredin.pro/blog/golang/cpu-cache-friendly-go",
+      },
     ],
   },
   {
@@ -625,16 +625,16 @@ const categories: Category[] = [
       },
       {
         text: "Disasters I've seen in a microservices world, part II",
-        href: "https://world.hey.com/joaoqalves/disasters-i-ve-seen-in-a-microservices-world-part-ii-9e6826bf"
+        href: "https://world.hey.com/joaoqalves/disasters-i-ve-seen-in-a-microservices-world-part-ii-9e6826bf",
       },
       {
         text: "A more general blog about microservices and their patterns",
-        href: "https://microservices.io/index.html"
+        href: "https://microservices.io/index.html",
       },
       {
         text: "Aggregator of different system designs",
-        href: "https://systemdesign.io/"
-      }
+        href: "https://systemdesign.io/",
+      },
     ],
   },
   {
@@ -716,24 +716,24 @@ const categories: Category[] = [
       },
       {
         text: "Futurelock",
-        href: "https://rfd.shared.oxide.computer/rfd/0609"
+        href: "https://rfd.shared.oxide.computer/rfd/0609",
       },
       {
         text: "The Inconceivable Types of Rust: How to Make Self-Borrows Safe",
-        href: "https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html"
+        href: "https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html",
       },
       {
         text: "Cancelling async Rust",
-        href: "https://sunshowers.io/posts/cancelling-async-rust/"
+        href: "https://sunshowers.io/posts/cancelling-async-rust/",
       },
       {
         text: "Linking and shrinking Rust static libraries: a tale of fire",
-        href: "https://centricular.com/devlog/2025-11/dragonfire/"
+        href: "https://centricular.com/devlog/2025-11/dragonfire/",
       },
       {
         text: "Inside Rust's std and parking_lot mutexes - who wins?",
-        href: "https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win"
-      }
+        href: "https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win",
+      },
     ],
   },
   {
@@ -751,16 +751,20 @@ const categories: Category[] = [
       },
       {
         text: "JVM Anatomy Quirks [Thanks to Christian for this suggestion!]",
-        href: "https://shipilev.net/jvm/anatomy-quarks/"
+        href: "https://shipilev.net/jvm/anatomy-quarks/",
       },
       {
         text: "Close Encounters of The Java Memory Model Kind [Thanks to Christian for this suggestion!]",
-        href: "https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/"
+        href: "https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/",
       },
       {
         text: "JVM exceptions are weird: a decompiler perspective",
-        href: "https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/"
-      }
+        href: "https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/",
+      },
+      {
+        text: "Help, My Java Object Vanished (and the GC is Not at Fault)",
+        href: "https://arraying.de/posts/markword/",
+      },
     ],
   },
   {
@@ -780,12 +784,16 @@ const categories: Category[] = [
       },
       {
         text: "Directives and the Platform Boundary",
-        href: "https://tanstack.com/blog/directives-and-the-platform-boundary"
+        href: "https://tanstack.com/blog/directives-and-the-platform-boundary",
       },
       {
         text: "Springs and Bounces in native CSS",
-        href: "https://www.joshwcomeau.com/animation/linear-timing-function/"
-      }
+        href: "https://www.joshwcomeau.com/animation/linear-timing-function/",
+      },
+      {
+        text: "uchu: the color palette for internet lovers",
+        href: "https://uchu.style"
+      },
     ],
   },
   {
@@ -870,15 +878,19 @@ const categories: Category[] = [
       },
       {
         text: "How We Found 7 TiB of Memory Just Sitting Around",
-        href: "https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around"
+        href: "https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around",
       },
       {
         text: "The Missing Semester of Your CS Education",
-        href: "https://missing.csail.mit.edu/"
+        href: "https://missing.csail.mit.edu/",
       },
       {
         text: "SRE Books (by Google)",
-        href: "https://sre.google/books/"
+        href: "https://sre.google/books/",
+      },
+      {
+        text: "A Git story: Not so fun this time",
+        href: "https://blog.brachiosoft.com/en/posts/git/"
       }
     ],
   },
