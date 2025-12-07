@@ -775,8 +775,16 @@ const categories: Category[] = [
         href: "https://nnethercote.github.io/2025/12/05/how-to-speed-up-the-rust-compiler-in-december-2025.html"
       },
       {
-        text: "DHH Is Way Worse Than I Thought",
-        href: "https://jakelazaroff.com/words/dhh-is-way-worse-than-i-thought/"
+        text: "Rust perf book",
+        href: "https://nnethercote.github.io/perf-book/"
+      },
+      {
+        text: "Tips For Faster Rust Compile Times",
+        href: "https://corrode.dev/blog/tips-for-faster-rust-compile-times/"
+      },
+      {
+        text: "Stacking Dependencies",
+        href: "https://stacktower.io/"
       }
     ],
   },
@@ -939,6 +947,10 @@ const categories: Category[] = [
       {
         text: "Eventual Rust in CPython",
         href: "https://lwn.net/SubscriberLink/1046933/d13433b823f559c0/"
+      },
+      {
+        text: "DHH Is Way Worse Than I Thought",
+        href: "https://jakelazaroff.com/words/dhh-is-way-worse-than-i-thought/"
       }
     ],
   },
