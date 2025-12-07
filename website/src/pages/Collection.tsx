@@ -205,6 +205,18 @@ const categories: Category[] = [
         text: "Mistakes I see engineers making in their code reviews",
         href: "https://www.seangoedecke.com/good-code-reviews/",
       },
+      {
+        text: "How Should We Peer Review Software?",
+        href: "https://mirawelner.com/posts/peer_review.html"
+      },
+      {
+        text: "Why I Ignore The Spotlight as a Staff Engineer",
+        href: "https://lalitm.com/software-engineering-outside-the-spotlight/"
+      },
+      {
+        text: "We stopped roadmap work for a week and fixed 189 bugs",
+        href: "https://lalitm.com/fixits-are-good-for-the-soul/"
+      }
     ],
   },
   {
@@ -366,6 +378,18 @@ const categories: Category[] = [
         text: "Enough With All The Raft",
         href: "https://transactional.blog/talk/enough-with-all-the-raft",
       },
+      {
+        text: "The Tail at Scale",
+        href: "https://dl.acm.org/doi/pdf/10.1145/2408776.2408794"
+      },
+      {
+        text: "In defense of lock poisoning in Rust",
+        href: "https://sunshowers.io/posts/on-poisoning/"
+      },
+      {
+        text: "What is io_uring?",
+        href: "https://unixism.net/loti/what_is_io_uring.html"
+      }
     ],
   },
   {
@@ -509,6 +533,10 @@ const categories: Category[] = [
         text: "Counterexamples in Type systems",
         href: "https://counterexamples.org/title.html",
       },
+      {
+        text: "What's the Point of Learning Functional Programming?",
+        href: "https://blog.daniel-beskin.com/2025-11-13-point-of-learning-fp"
+      }
     ],
   },
   {
@@ -546,6 +574,10 @@ const categories: Category[] = [
         text: "CPU Cache-Friendly Data Structures in Go: 10x Speed with Same Algorithm",
         href: "https://skoredin.pro/blog/golang/cpu-cache-friendly-go",
       },
+      {
+        text: "CppCon 2017: Nicholas Ormrod “Fantastic Algorithms and Where To Find Them”",
+        href: "https://www.youtube.com/watch?v=YA-nB2wjVcI"
+      }
     ],
   },
   {
@@ -734,6 +766,18 @@ const categories: Category[] = [
         text: "Inside Rust's std and parking_lot mutexes - who wins?",
         href: "https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win",
       },
+      {
+        text: "Why async Rust?",
+        href: "https://without.boats/blog/why-async-rust/"
+      },
+      {
+        text: "How to speed up the Rust compiler in December 2025",
+        href: "https://nnethercote.github.io/2025/12/05/how-to-speed-up-the-rust-compiler-in-december-2025.html"
+      },
+      {
+        text: "DHH Is Way Worse Than I Thought",
+        href: "https://jakelazaroff.com/words/dhh-is-way-worse-than-i-thought/"
+      }
     ],
   },
   {
@@ -891,6 +935,10 @@ const categories: Category[] = [
       {
         text: "A Git story: Not so fun this time",
         href: "https://blog.brachiosoft.com/en/posts/git/"
+      },
+      {
+        text: "Eventual Rust in CPython",
+        href: "https://lwn.net/SubscriberLink/1046933/d13433b823f559c0/"
       }
     ],
   },
