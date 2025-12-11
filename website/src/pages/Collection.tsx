@@ -783,8 +783,8 @@ const categories: Category[] = [
         href: "https://corrode.dev/blog/tips-for-faster-rust-compile-times/"
       },
       {
-        text: "Stacking Dependencies",
-        href: "https://stacktower.io/"
+        text: "From Rust to Reality: The Hidden Journey of fetch_max",
+        href: "https://questdb.com/blog/rust-fetch-max-compiler-journey/"
       }
     ],
   },
@@ -951,6 +951,10 @@ const categories: Category[] = [
       {
         text: "DHH Is Way Worse Than I Thought",
         href: "https://jakelazaroff.com/words/dhh-is-way-worse-than-i-thought/"
+      },
+      {
+        text: "Stacking Dependencies",
+        href: "https://stacktower.io/"
       }
     ],
   },
